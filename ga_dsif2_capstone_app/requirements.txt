@@ -1,6 +1,6 @@
-gunicorn
-Flask
-numpy
-pandas
-statsmodels
-sklearn
+gunicorn==0.0
+Flask==2.0.3
+numpy==1.17.4
+pandas==0.25.3
+statsmodels==0.12.1
+sklearn==0.0
